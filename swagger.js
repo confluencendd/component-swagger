@@ -26,8 +26,13 @@ const apiSettings =
 		},
 		{
 			product: "NDD Orbix",
-			pageUrl: "api-de-produtos",
+			pageUrl: "api-produtos",
 			swaggerUrl: "https://developer.nddorbix.com/stock-external-integration-api/index.html"
+		},
+		{
+			product: "NDD Orbix",
+			pageUrl: "api-computadores",
+			swaggerUrl: "https://developer.nddorbix.com/computer-external-integration-api/index.html"
 		},
 		{
 			product: "NDD Move",
