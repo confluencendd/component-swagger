@@ -43,6 +43,11 @@ const apiSettings =
 			product: "NDD Averba",
 			pageUrl: "manual-nddaverba-apis-de-integracao",
 			swaggerUrl: "https://reader.nddaverba.com.br/documentation/api.html"
+		},
+		{
+			product: "NDD Orbix",
+			pageUrl: "api-filas-de-impressao",
+			swaggerUrl: "https://developer.nddorbix.com/print-queue-external-integration-api/index.html"
 		}
 		//O NOVO OBJETO DEVE SER INSERIDO LOGO ACIMA DESTE COMENTÁRIO
 	]
