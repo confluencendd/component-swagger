@@ -48,6 +48,11 @@ const apiSettings =
 			product: "NDD Orbix",
 			pageUrl: "api-filas-de-impressao",
 			swaggerUrl: "https://developer.nddorbix.com/print-queue-external-integration-api/index.html"
+		},
+		{
+			product: "NDD Orbix",
+			pageUrl: "api-softwares",
+			swaggerUrl: "https://developer.nddorbix.com/software-external-integration-api/index.html"
 		}
 		//O NOVO OBJETO DEVE SER INSERIDO LOGO ACIMA DESTE COMENTÁRIO
 	]
